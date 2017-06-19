@@ -2,7 +2,7 @@ body {
 	 background-image: url("maxresdefault.jpg");
 	 font-family: Georgia, Times, serif;
 	 line-height: 1.4em;
-                                                         }
+}
 .wrapper {
 	 width: 400px;
      margin-top: 100px;
@@ -10,7 +10,7 @@ body {
 	 border: 3px solid black;
 	 padding: 50px 10px 30px 20px 40px ;
 	 background-color: aqua;
-                                                       }
+}
 .nor {
 	 background-color: Wheat;
      margin: 10px;
